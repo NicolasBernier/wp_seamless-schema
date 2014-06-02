@@ -1,0 +1,6 @@
+.invalidInput { border-color: #FF0000 !important; }
+option.added { background-color: #FFFF00; }
+option.standard { color: #888; font-style: italic }
+tr.inexistantProperty { background-color: #FF0000 !important }
+#schema-meta .propertyName { width: 125px; }
+#schema-meta td.removeButton { width: 50px; }

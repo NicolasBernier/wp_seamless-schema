@@ -1,0 +1,104 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Seamless Schema v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-05-28 18:58+0100\n"
+"PO-Revision-Date: 2014-05-28 19:01+0100\n"
+"Last-Translator: Nicolas Bernier <nicolas.bernier@synagila.com>\n"
+"Language-Team: Synagila <nicolas.bernier@synagila.com>\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ../\n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/class.seamless_schema.php:52
+msgid "Boolean"
+msgstr "Booléen"
+
+#: includes/class.seamless_schema.php:57
+msgid "Integer number"
+msgstr "Nombre entier"
+
+#: includes/class.seamless_schema.php:62
+msgid "Floating point number"
+msgstr "Nombre à virgule flottante"
+
+#: includes/class.seamless_schema.php:67
+msgid "Number"
+msgstr "Nombre"
+
+#: includes/class.seamless_schema.php:72
+msgid "Date"
+msgstr "Date"
+
+#: includes/class.seamless_schema.php:73 includes/class.seamless_schema.php:78
+#: includes/class.seamless_schema.php:83
+msgid "ISO 8601"
+msgstr "ISO 8601"
+
+#: includes/class.seamless_schema.php:77
+msgid "Time"
+msgstr "Heure"
+
+#: includes/class.seamless_schema.php:82
+msgid "Date with time"
+msgstr "Date avec heure"
+
+#: includes/class.seamless_schema.php:87
+msgid "URL"
+msgstr "URL"
+
+#: includes/class.seamless_schema.php:92
+msgid "Text"
+msgstr "Texte"
+
+#: includes/class.seamless_schema_metabox.php:21
+msgid "Schema.org metadata"
+msgstr "Métadonnées Schema.org"
+
+#: includes/class.seamless_schema_metabox.php:49
+msgid "Content type:"
+msgstr "Type de contenu :"
+
+#: includes/class.seamless_schema_metabox.php:56
+msgid "Name"
+msgstr "Nom"
+
+#: includes/class.seamless_schema_metabox.php:56
+msgid "Value"
+msgstr "Valeur"
+
+#: includes/class.seamless_schema_settings.php:80
+#, php-format
+msgid "Homepage settings for %s"
+msgstr "Paramètres de la page d'accueil en %s"
+
+#: includes/class.seamless_schema_settings.php:83
+#, php-format
+msgid "Default settings settings for %s"
+msgstr "Paramètres par défaut en %s"
+
+#: includes/class.seamless_schema_settings.php:94
+msgid "Homepage settings"
+msgstr "Paramètres de la page d'accueil"
+
+#: includes/class.seamless_schema_settings.php:97
+msgid "Default settings"
+msgstr "Paramètres par défaut"
+
+#: includes/class.seamless_schema_settings.php:138
+msgid "Seamless Schema Settings"
+msgstr "Paramètres de Seamless Schema"
+
+#: includes/class.seamless_schema_settings.php:143
+#: includes/class.seamless_schema_settings.php:166
+msgid "Settings list"
+msgstr "Liste des paramètres"
